@@ -1,18 +1,28 @@
+<div align="center"> 
+
 # Documentação sobre o projeto de Bot para discord 
-  ### Ainda sem nome definido para o bot 
+
+</div>
+
+### Ainda sem nome definido para o bot 
    
    Documentação de descrição das funcionalidades e desenvolvimento a cerca da programação de forma que seja didática o aprendizado da programação realizada
-   
-   <div align="center">
+ 
+ ***  
+ 
+ <div align="center">
    
    ### Badges para o projeto
    
    </div>
    
    
+  ***
+   <div align="center">
    
-   ### Sobre o projeto:
-   
+   #### Sumário:
+
+</div>
    
    → Descrição sobre o Bot
    
@@ -20,21 +30,26 @@
    
    → Padrão de estrutura de commit
    
-   → Ferramentas utilizadas
+   → [Ferramentas Frameworks e Linguagens Utilizadas](#Ferramentas-Frameworks-e-Linguagens-Utilizadas)
    
-   → Brainstorming dos comandos
+   → [Brainstorming dos comandos](https://github.com/luccasmcarvalho/Bot_Discord_JS/blob/main/Brainstorming.md)
    
-   → Release Notes
+   → [Release Notes](https://github.com/luccasmcarvalho/Bot_Discord_JS/#)
    
-   
-        Legenda:
-         → Menu
-          ► Sub-menu
 
+ 
+  > Legenda:
+  >
+  > → Menu
+  >
+  > ► Sub-menu
+  
+***
 <div align= "center">
 
-## Ferramentas Utilizadas 
+### Ferramentas Frameworks e Linguagens Utilizadas 
 
 
 </div>
  
+***
